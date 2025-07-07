@@ -1,1 +1,1 @@
-[https://seoinfotech.com/spring-boot-microservices-http-kafka/](https://seoinfotech.com/spring-boot-microservices-http-kafka/)
+[Build Spring Boot Microservices with HTTP and Kafka Communication](https://seoinfotech.com/spring-boot-microservices-http-kafka/)
